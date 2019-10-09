@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    width: 1400px;
+    margin: 5px 10px;
+}
+
+.item_box {
+    background-color: #dbcfce;
+    display: inline-block;
+    width: 400px;
+
+}
+
+img {
+    width: 300px;
+}
