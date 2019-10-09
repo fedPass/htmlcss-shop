@@ -5,7 +5,9 @@
 }
 
 .row {
+    background-color: darkgrey;
     width: 1400px;
+    height: 600px;
     margin: 5px 10px;
 }
 
@@ -13,9 +15,23 @@
     background-color: #dbcfce;
     display: inline-block;
     width: 400px;
+    height: 500px;
 
 }
 
 img {
     width: 300px;
+}
+
+.sconti{
+    background-color: #de2112;
+}
+
+.super_sconti {
+    background-color: #4ad91e;
+}
+
+.heart {
+    width: 50px;
+    color: red;
 }
